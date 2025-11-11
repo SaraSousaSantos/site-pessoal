@@ -1,5 +1,9 @@
+h1 {
+  color: rgb(9, 0, 0);
+}
+
 div {
-  width: 250px;
-  height: 200px;
+  width: 1000px;
+  height: 500px;
   background-color: rgb(71, 109, 113);
 }
