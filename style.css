@@ -1,7 +1,5 @@
-h1 {
-  text-align: center;
-}
-
 div {
-  background-color: rgb(31, 59, 62);
+  width: 250px;
+  height: 200px;
+  background-color: rgb(71, 109, 113);
 }
